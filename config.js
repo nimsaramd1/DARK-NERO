@@ -11,7 +11,7 @@
 //┃SOME ENCRYPTED FILES
 //┃
 //┃THANKS FOR CHOOSING DarkNero
-//┃THANKS TO Vishanga & Thinura & kumuthu
+//┃THANKS TO 𝘉𝘓𝘈𝘊𝘒 𝘈𝘔𝘋𝘐 & 𝘕𝘐𝘔𝘚𝘈𝘙𝘈 
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 const fs = require('fs')

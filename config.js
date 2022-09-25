@@ -71,7 +71,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
+    success: '*𝘴𝘶𝘤𝘤𝘦𝘴𝘴 ✅*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     horny: '*nsfw is disabled please ask owner to enable it*',
     admin: '*this cmd is for admin only , l can feel you but sorry okay*',
@@ -80,7 +80,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*please wait 𝘓𝘖𝘋𝘐𝘕𝘎...⌛*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {

@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮Dark NERO MD 2022 ®️ALL RIGHTS RESERVED
+//▮𝘉𝘓𝘈𝘊𝘒 𝘕𝘐𝘔𝘚𝘈𝘙𝘈𝘔𝘋 MD 2022 ®️ALL RIGHTS RESERVED
 //▮ 
 
 //▮
